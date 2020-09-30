@@ -1,0 +1,18 @@
+{
+  "name": "npm-entity-manager",
+  "version": "1.0.1",
+  "description": "Manage data entity at different levels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm-entity-manager",
+    "entity",
+    "manager",
+    "data",
+    "handler"
+  ],
+  "author": "Mamun Rashid",
+  "license": "ISC"
+}
